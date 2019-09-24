@@ -4,9 +4,10 @@
 
 找到一个镜像网址（淘宝的），https://npm.taobao.org/mirrors/git-for-windows/
 
-![1569335933232](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1569335933232.png)
+![1569335608226](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1569335608226.png)
 
-![1569335947248](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1569335947248.png)
+![1569335632840](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\1569335632840.png)
 
 发现不能重新配置..............
+
 
