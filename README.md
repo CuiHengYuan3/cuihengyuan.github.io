@@ -16,9 +16,9 @@
 
 [Java基础——java引用类型](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/JAVA%E5%BC%95%E7%94%A8%E7%B1%BB%E5%9E%8B.md)
 
-[计算机网络——ip地址和mac地址](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/Vector%E3%80%81ArrayList%E3%80%81LinkedList%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+[计算机网络——ip地址和mac地址](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E2%80%94ip%E5%9C%B0%E5%9D%80%E5%92%8Cmac%E5%9C%B0%E5%9D%80.md)
 
-[Java基础——Vector、ArrayList、LinkedList 的区别](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E2%80%94ip%E5%9C%B0%E5%9D%80%E5%92%8Cmac%E5%9C%B0%E5%9D%80.md)
+[Java基础——Vector、ArrayList、LinkedList 的区别](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/Vector%E3%80%81ArrayList%E3%80%81LinkedList%20%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 
 [设计模式——观察者模式](https://github.com/cuihengyuan/cuihengyuan.github.io/blob/master/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E2%80%94%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
